@@ -34,6 +34,7 @@ const authConfig = {
   pages: {
     signIn: "/login",
   },
+  trustedHost: 'localhost:3000',
 };
 
 export const {
